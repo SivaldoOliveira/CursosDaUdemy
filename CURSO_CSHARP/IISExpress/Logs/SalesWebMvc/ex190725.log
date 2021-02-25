@@ -1,0 +1,20 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-07-25 23:58:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-25 23:58:01 ::1 GET / - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 - 200 0 0 5560
+2019-07-25 23:58:01 ::1 GET /css/site.css - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/ 200 0 0 116
+2019-07-25 23:58:01 ::1 GET /js/site.js v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/ 200 0 0 116
+2019-07-25 23:58:01 ::1 GET /images/banner3.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/ 200 0 0 259
+2019-07-25 23:58:01 ::1 GET /images/banner2.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/ 200 0 0 246
+2019-07-25 23:58:01 ::1 GET /images/banner1.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/ 200 0 0 270
+2019-07-25 23:58:01 ::1 GET /lib/bootstrap/dist/js/bootstrap.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/ 200 0 0 347
+2019-07-25 23:58:01 ::1 GET /lib/bootstrap/dist/css/bootstrap.css - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/ 200 0 0 394
+2019-07-25 23:58:01 ::1 GET /lib/jquery/dist/jquery.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/ 200 0 0 451
+2019-07-25 23:58:01 ::1 GET /lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/ 200 0 0 9
+2019-07-25 23:58:34 ::1 GET / - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/ 200 0 0 10
+2019-07-25 23:58:36 ::1 GET /Home/About - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/ 200 0 0 17
+2019-07-25 23:58:38 ::1 GET /Home/Contact - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/Home/About 200 0 0 29
+2019-07-25 23:58:42 ::1 GET / - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/Home/Contact 200 0 0 13
+2019-07-25 23:58:48 ::1 GET / - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/ 200 0 0 9
+2019-07-25 23:58:50 ::1 GET /Home/About - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.135+Safari/537.36+Edge/12.10240 https://localhost:44300/ 200 0 0 14

@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Registration.Form1.resources
+obj\Debug\Registration.Properties.Resources.resources
+obj\Debug\Registration.csproj.GenerateResource.Cache
+bin\Debug\Registration.exe
+bin\Debug\Registration.pdb
+obj\Debug\Registration.exe
+obj\Debug\Registration.pdb
+obj\Debug\Registration.About.resources

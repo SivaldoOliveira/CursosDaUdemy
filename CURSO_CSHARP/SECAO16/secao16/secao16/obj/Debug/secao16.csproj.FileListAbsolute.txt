@@ -1,0 +1,7 @@
+Z:\SECAO16\secao16\secao16\bin\Debug\secao16.exe.config
+Z:\SECAO16\secao16\secao16\bin\Debug\secao16.exe
+Z:\SECAO16\secao16\secao16\bin\Debug\secao16.pdb
+Z:\SECAO16\secao16\secao16\obj\Debug\secao16.csprojAssemblyReference.cache
+Z:\SECAO16\secao16\secao16\obj\Debug\secao16.csproj.CoreCompileInputs.cache
+Z:\SECAO16\secao16\secao16\obj\Debug\secao16.exe
+Z:\SECAO16\secao16\secao16\obj\Debug\secao16.pdb

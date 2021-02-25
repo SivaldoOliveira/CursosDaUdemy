@@ -1,0 +1,5 @@
+Abra o projeto no Visual C# 2010 Express Edition ou no Visual Studio 2010
+
+o banco de dados esta na pasta bin\debug
+você deve criar uma pasta c:\dados e copiar o banco de dados nesta pasta
+ou alterar a string de conexão no formulário descomentando a que esta comentada e comentado a que esta sendo usada

@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-08-01 02:20:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-08-01 02:20:21 ::1 GET / - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 12655
+2019-08-01 02:20:47 ::1 GET /Departments - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 341
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-08-01 02:56:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-08-01 02:56:09 ::1 DEBUG / - 49604 - ::1 - - 200 0 64 25374
+2019-08-01 02:56:11 ::1 GET / - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 17009
+2019-08-01 02:56:41 ::1 GET /Departments - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 500 0 0 19907
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-08-01 03:08:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-08-01 03:08:58 ::1 GET / - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 502 5 2147500037 6034
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-08-01 03:15:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-08-01 03:15:20 ::1 DEBUG / - 49604 - ::1 - - 200 0 64 12718
+2019-08-01 03:15:20 ::1 GET / - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 9410
+2019-08-01 03:15:32 ::1 GET /Departments - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 500 0 0 5026

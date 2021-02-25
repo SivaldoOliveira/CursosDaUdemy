@@ -1,0 +1,16 @@
+Link para baixar o programa de CLI da Amazon AWS
+https://docs.aws.amazon.com/cli/latest/userguide/install-windows.html
+
+
+Link para acesso a pagina com referencias a comandos do S3
+https://docs.aws.amazon.com/cli/latest/reference/s3/index.html
+
+Lista de comandos CLI AWS
+https://docs.aws.amazon.com/cli/latest/reference/iam/list-users.html
+
+
+aws --version
+aws configure
+
+Key = user
+secret = password

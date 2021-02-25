@@ -1,0 +1,10 @@
+C:\_c#\RegistroFuncionarios\Registration\Registration\obj\Debug\Registration.pdb
+C:\_c#\RegistroFuncionarios\Registration\Registration\bin\Debug\Registration.exe
+C:\_c#\RegistroFuncionarios\Registration\Registration\bin\Debug\Registration.pdb
+C:\_c#\RegistroFuncionarios\Registration\Registration\obj\Debug\ResolveAssemblyReference.cache
+C:\_c#\RegistroFuncionarios\Registration\Registration\obj\Debug\Registration.About.resources
+C:\_c#\RegistroFuncionarios\Registration\Registration\obj\Debug\Registration.Form1.resources
+C:\_c#\RegistroFuncionarios\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\_c#\RegistroFuncionarios\Registration\Registration\obj\Debug\GenerateResource.read.1.tlog
+C:\_c#\RegistroFuncionarios\Registration\Registration\obj\Debug\GenerateResource.write.1.tlog
+C:\_c#\RegistroFuncionarios\Registration\Registration\obj\Debug\Registration.exe

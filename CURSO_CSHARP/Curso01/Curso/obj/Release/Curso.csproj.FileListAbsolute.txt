@@ -1,0 +1,6 @@
+D:\CURSOS\UDEMY\CURSO C#\CursoC#\Curso\Curso\bin\Release\Curso.exe.config
+D:\CURSOS\UDEMY\CURSO C#\CursoC#\Curso\Curso\bin\Release\Curso.exe
+D:\CURSOS\UDEMY\CURSO C#\CursoC#\Curso\Curso\bin\Release\Curso.pdb
+D:\CURSOS\UDEMY\CURSO C#\CursoC#\Curso\Curso\obj\Release\Curso.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\CURSO C#\CursoC#\Curso\Curso\obj\Release\Curso.exe
+D:\CURSOS\UDEMY\CURSO C#\CursoC#\Curso\Curso\obj\Release\Curso.pdb

@@ -1,0 +1,7 @@
+D:\CURSOS\UDEMY\CURSO C#\CursoC#\Curso\Curso\obj\Debug\Curso.csprojAssemblyReference.cache
+D:\CURSOS\UDEMY\CURSO C#\CursoC#\Curso\Curso\obj\Debug\Curso.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\CURSO C#\CursoC#\Curso\Curso\bin\Debug\Curso.exe.config
+D:\CURSOS\UDEMY\CURSO C#\CursoC#\Curso\Curso\bin\Debug\Curso.exe
+D:\CURSOS\UDEMY\CURSO C#\CursoC#\Curso\Curso\bin\Debug\Curso.pdb
+D:\CURSOS\UDEMY\CURSO C#\CursoC#\Curso\Curso\obj\Debug\Curso.exe
+D:\CURSOS\UDEMY\CURSO C#\CursoC#\Curso\Curso\obj\Debug\Curso.pdb

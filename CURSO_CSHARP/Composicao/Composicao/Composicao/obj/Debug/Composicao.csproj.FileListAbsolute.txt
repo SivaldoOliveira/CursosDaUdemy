@@ -1,0 +1,2 @@
+D:\CURSOS\UDEMY\CURSO C#\Composicao\Composicao\Composicao\obj\Debug\Composicao.csprojAssemblyReference.cache
+D:\CURSOS\UDEMY\CURSO C#\Composicao\Composicao\Composicao\obj\Debug\Composicao.csproj.CoreCompileInputs.cache
