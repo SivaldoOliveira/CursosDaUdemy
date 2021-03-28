@@ -1,0 +1,322 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Kilometragem",
+            "request": "launch",
+            "mainClass": "Kilometragem",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio0601",
+            "request": "launch",
+            "mainClass": "Exercicio0601",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio0401",
+            "request": "launch",
+            "mainClass": "Exercicio0401",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Amigos",
+            "request": "launch",
+            "mainClass": "Amigos",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CadastroAutores",
+            "request": "launch",
+            "mainClass": "CadastroAutores",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CadastroComputadores",
+            "request": "launch",
+            "mainClass": "CadastroComputadores",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CadastroEstado",
+            "request": "launch",
+            "mainClass": "CadastroEstado",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CadastroEstadosValidacao",
+            "request": "launch",
+            "mainClass": "CadastroEstadosValidacao",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CadastroGeneros",
+            "request": "launch",
+            "mainClass": "CadastroGeneros",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CadastroLivros",
+            "request": "launch",
+            "mainClass": "CadastroLivros",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Contatos",
+            "request": "launch",
+            "mainClass": "Contatos",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Convidados",
+            "request": "launch",
+            "mainClass": "Convidados",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio0301",
+            "request": "launch",
+            "mainClass": "Exercicio0301",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio0302",
+            "request": "launch",
+            "mainClass": "Exercicio0302",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio0303",
+            "request": "launch",
+            "mainClass": "Exercicio0303",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio0304",
+            "request": "launch",
+            "mainClass": "Exercicio0304",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Finally",
+            "request": "launch",
+            "mainClass": "Finally",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForEach",
+            "request": "launch",
+            "mainClass": "ForEach",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImprimeLivro",
+            "request": "launch",
+            "mainClass": "ImprimeLivro",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matriz",
+            "request": "launch",
+            "mainClass": "Matriz",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Notas",
+            "request": "launch",
+            "mainClass": "Notas",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadorConta",
+            "request": "launch",
+            "mainClass": "OperadorConta",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Testa01Cliente",
+            "request": "launch",
+            "mainClass": "Testa01Cliente",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaAtleta",
+            "request": "launch",
+            "mainClass": "TestaAtleta",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaCliente",
+            "request": "launch",
+            "mainClass": "TestaCliente",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaDoenca",
+            "request": "launch",
+            "mainClass": "TestaDoenca",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaGato",
+            "request": "launch",
+            "mainClass": "TestaGato",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaLivro",
+            "request": "launch",
+            "mainClass": "TestaLivro",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaLivroProtegido",
+            "request": "launch",
+            "mainClass": "TestaLivroProtegido",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaMatematico",
+            "request": "launch",
+            "mainClass": "TestaMatematico",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaProfessor",
+            "request": "launch",
+            "mainClass": "TestaProfessor",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteAluno",
+            "request": "launch",
+            "mainClass": "TesteAluno",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteAssunto",
+            "request": "launch",
+            "mainClass": "TesteAssunto",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteCurso",
+            "request": "launch",
+            "mainClass": "TesteCurso",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteDialogo",
+            "request": "launch",
+            "mainClass": "TesteDialogo",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteDisciplina",
+            "request": "launch",
+            "mainClass": "TesteDisciplina",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestePeixe",
+            "request": "launch",
+            "mainClass": "TestePeixe",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TratamentoArray",
+            "request": "launch",
+            "mainClass": "TratamentoArray",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TratamentoInput",
+            "request": "launch",
+            "mainClass": "TratamentoInput",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TratamentoMultiplo",
+            "request": "launch",
+            "mainClass": "TratamentoMultiplo",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TratamentoNull",
+            "request": "launch",
+            "mainClass": "TratamentoNull",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TratamentoObrigatorio",
+            "request": "launch",
+            "mainClass": "TratamentoObrigatorio",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidandoInteiro",
+            "request": "launch",
+            "mainClass": "ValidandoInteiro",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        }
+    ]
+}
