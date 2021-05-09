@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CadastroCaminhao",
+            "request": "launch",
+            "mainClass": "CadastroCaminhao",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CadastroOnibus",
+            "request": "launch",
+            "mainClass": "CadastroOnibus",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CadastroClienteEmpresa",
+            "request": "launch",
+            "mainClass": "CadastroClienteEmpresa",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CadastroClientePessoa",
+            "request": "launch",
+            "mainClass": "CadastroClientePessoa",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio0701",
+            "request": "launch",
+            "mainClass": "Exercicio0701",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Meses",
+            "request": "launch",
+            "mainClass": "Meses",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conceito",
+            "request": "launch",
+            "mainClass": "Conceito",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Resultado",
+            "request": "launch",
+            "mainClass": "Resultado",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Resposta",
+            "request": "launch",
+            "mainClass": "Resposta",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interrupcao",
+            "request": "launch",
+            "mainClass": "Interrupcao",
+            "projectName": "Project_visualCode_b2fa1c5b"
+        },
+        {
+            "type": "java",
             "name": "Launch Kilometragem",
             "request": "launch",
             "mainClass": "Kilometragem",
